@@ -299,3 +299,4 @@ fun PlaylistDetail(pl: Playlist, controller: MediaController?, openPlayer: () ->
         }
     }
 }
+import androidx.compose.runtime.saveable.rememberSaveable
